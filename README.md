@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+<!-- github statistics -->
 <img src="https://github-readme-stats.vercel.app/api?username=singleBuck&show_icons=true&&theme=vue-dark" alt="logo" width="390" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
+<!-- popular language -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singleBuck&layout=compact" alt="logo" width="390"/>
 
 <!-- ![naze's github stats](https://github-readme-stats.vercel.app/api?username=singleBuck&show_icons=true&&theme=vue-dark&&card_width=390) -->
 
