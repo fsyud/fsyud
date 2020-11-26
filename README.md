@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![naze's github stats](https://github-readme-stats.vercel.app/api?username=singleBuck&show_icons=true&&theme=vue-dark&card_width=390)
+![naze's github stats](https://github-readme-stats.vercel.app/api?username=singleBuck&show_icons=true&&theme=vue-dark&&card_width=390)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singleBuck&layout=compact)](https://github.com/singleBuck/buck-blog-react)
 
