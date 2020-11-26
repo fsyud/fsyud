@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singleBuck&layout=compact)](https://github.com/singleBuck/buck-blog-react)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=singleBuck&repo=github-readme-stats&theme=vue-dark)](https://github.com/singleBuck/buck-blog-react)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=singleBuck&repo=buck-blog-react&theme=vue-dark)](https://github.com/singleBuck/buck-blog-react)
 
 <!--
 **singleBuck/singleBuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
