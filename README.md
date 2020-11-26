@@ -21,12 +21,9 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/lodash/lodash-ar21.svg"></code>
 </p>
 
-- [Blog(孤独的鹿)](https://www.singlebuck.cn)
-- [掘金(纳兹)](https://juejin.cn/user/4371313964619975)
+- [Blog](https://www.singlebuck.cn)
+- [JueJin](https://juejin.cn/user/4371313964619975)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=singleBuck&repo=buck-blog-react&theme=vue)](https://github.com/singleBuck/buck-blog-react)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=singleBuck&repo=buck-blog-admin&theme=vue)](https://github.com/singleBuck/buck-blog-admin)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=singleBuck&repo=buck-blog-node&theme=vue)](https://github.com/singleBuck/buck-blog-node)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=singleBuck&repo=leetCode-day-pratice&theme=buefy)](https://github.com/singleBuck/leetCode-day-pratice)
 
 <!--
