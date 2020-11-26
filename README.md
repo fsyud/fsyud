@@ -4,12 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=singleBuck&show_icons=true&&theme=vue-dark" alt="logo" width="390" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
 <!-- popular language -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singleBuck&layout=compact" alt="logo" width="390"/>
-
-<!-- ![naze's github stats](https://github-readme-stats.vercel.app/api?username=singleBuck&show_icons=true&&theme=vue-dark&&card_width=390) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singleBuck&layout=compact)](https://github.com/singleBuck/buck-blog-react) -->
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singleBuck&layout=compact" alt="logo" height="153"/>
 
 - [Blog(孤独的鹿)](https://www.singlebuck.cn)
 - [掘金(纳兹)](https://juejin.cn/user/settings/profile)
