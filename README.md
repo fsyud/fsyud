@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=singleBuck&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+![naze's github stats](https://github-readme-stats.vercel.app/api?username=naze&show_icons=true&&theme=vue-dark)
+
+- [Blog](www.singlebuck.cn)
+- [掘金](https://juejin.cn/user/settings/profile)
+
+
+[![mobile react](https://github-readme-stats.vercel.app/api/pin/?username=singleBuck&them=vue-dark&layout=compact)](https://github.com/singleBuck/mobile-app-react)
 
 <!--
 **singleBuck/singleBuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
