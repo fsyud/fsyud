@@ -7,9 +7,9 @@
 - [掘金](https://juejin.cn/user/settings/profile)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/singleBuck/mobile-app-react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/singleBuck/buck-blog-react)
 
-<!-- [![mobile react](https://github-readme-stats.vercel.app/api/pin/?username=singleBuck&them=vue-dark&layout=compact)](https://github.com/singleBuck/mobile-app-react) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue-dark)](https://github.com/singleBuck/buck-blog-react)
 
 <!--
 **singleBuck/singleBuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
