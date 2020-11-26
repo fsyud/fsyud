@@ -23,7 +23,7 @@
 </p>
 
 - [Blog(孤独的鹿)](https://www.singlebuck.cn)
-- [掘金(纳兹)](https://juejin.cn/user/settings/profile)
+- [掘金(纳兹)](https://juejin.cn/user/4371313964619975)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=singleBuck&repo=buck-blog-react&theme=vue)](https://github.com/singleBuck/buck-blog-react)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=singleBuck&repo=buck-blog-admin&theme=vue)](https://github.com/singleBuck/buck-blog-admin)
