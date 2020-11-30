@@ -1,16 +1,13 @@
 ### Hi there 👋
 **The warmest thing in the world is to do what you like all the time,⛱ Here's a boy who likes code, nice to meet you🌈**
 
-
-draw("
-    _         _     _           _   
- __<_._ _ ___| |___| |_ _ _ ___| |__
-<_-| | ' / . | / ._| . | | / | | / /
-/__|_|_|_\_. |_\___|___`___\_|_|_\_\
-         <___'                      
+// 使用函数 draw 绘制图形，反斜杠 "\" 请使用 "\\" 转义
+draw("  _   _      _ _    __        __         _     _ 
+ | | | | ___| | | __\\ \\      / /__  _ __| | __| |
+ | |_| |/ _ \\ | |/ _ \\ \\ /\\ / / _ \\| '__| |/ _` |
+ |  _  |  __/ | | (_) \\ V  V / (_) | |  | | (_| |
+ |_| |_|\\___|_|_|\\___/ \\_/\\_/ \\___/|_|  |_|\\__,_|
 ")
-
-
 
 <!-- github statistics -->
 <img src="https://github-readme-stats.vercel.app/api?username=singleBuck&show_icons=true&&theme=vue-dark" alt="logo" width="390" align="left" style="margin: 5px; margin-bottom: 20px;" />
