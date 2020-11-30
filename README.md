@@ -1,6 +1,16 @@
 ### Hi there 👋
 **The warmest thing in the world is to do what you like all the time,⛱ Here's a boy who likes code, nice to meet you🌈**
 
+
+     _______. __  .__   __.   _______  __       _______ .______    __    __    ______  __  ___ 
+    /       ||  | |  \ |  |  /  _____||  |     |   ____||   _  \  |  |  |  |  /      ||  |/  / 
+   |   (----`|  | |   \|  | |  |  __  |  |     |  |__   |  |_)  | |  |  |  | |  ,----'|  '  /  
+    \   \    |  | |  . `  | |  | |_ | |  |     |   __|  |   _  <  |  |  |  | |  |     |    <   
+.----)   |   |  | |  |\   | |  |__| | |  `----.|  |____ |  |_)  | |  `--'  | |  `----.|  .  \  
+|_______/    |__| |__| \__|  \______| |_______||_______||______/   \______/   \______||__|\__\ 
+                                                                                               
+
+
 <!-- github statistics -->
 <img src="https://github-readme-stats.vercel.app/api?username=singleBuck&show_icons=true&&theme=vue-dark" alt="logo" width="390" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
