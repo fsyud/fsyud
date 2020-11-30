@@ -19,6 +19,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/lodash/lodash-ar21.svg"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"></code>
 </p>
 
 - [Blog](https://www.singlebuck.cn)
