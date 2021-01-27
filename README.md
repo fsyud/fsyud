@@ -12,10 +12,6 @@
                                                   
 ```
 
-
-# - [Blog](https://www.singlebuck.cn)
-# - [JueJin](https://juejin.cn/user/4371313964619975)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=starryskystar&repo=leetCode-day-pratice&theme=buefy)](https://github.com/starryskystar/leetCode-day-pratice)
 
 <!--
