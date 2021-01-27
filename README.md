@@ -1,6 +1,9 @@
 ### Hi there 👋
 **The warmest thing in the world is to do what you like all the time,⛱ Here's a boy who likes code, nice to meet you🌈**
 
+<!-- github statistics -->
+<img src="https://github-readme-stats.vercel.app/api?username=starryskystar&show_icons=true&&theme=vue-dark" alt="logo" width="390" align="left" style="margin: 5px; margin-bottom: 20px;" />
+
 ```python
 |..          |     .'.     `````````:|___________  
 |  ``..      |   .''```.         ..' |______      
@@ -9,15 +12,9 @@
                                                   
 ```
 
-<!-- github statistics -->
-<img src="https://github-readme-stats.vercel.app/api?username=starryskystar&show_icons=true&&theme=vue-dark" alt="logo" width="390" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
-<!-- popular language -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starryskystar&layout=compact" alt="logo" height="153"/>
-
-
-- [Blog](https://www.singlebuck.cn)
-- [JueJin](https://juejin.cn/user/4371313964619975)
+# - [Blog](https://www.singlebuck.cn)
+# - [JueJin](https://juejin.cn/user/4371313964619975)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=starryskystar&repo=leetCode-day-pratice&theme=buefy)](https://github.com/starryskystar/leetCode-day-pratice)
 
