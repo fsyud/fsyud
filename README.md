@@ -1,11 +1,11 @@
 ### Hi there 👋
 **The warmest thing in the world is to do what you like all the time,⛱  nice to meet you🌈**
-![](https://visitor-badge.glitch.me/badge?page_id=starryskystar.starryskystar)
+
 
 <!-- github statistics -->
 <img src="https://github-readme-stats.vercel.app/api?username=starryskystar&show_icons=true&&theme=vue-dark" alt="logo" width="390" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=starryskystar.starryskystar)
 
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=starryskystar&repo=leetCode-day-pratice&theme=buefy)](https://github.com/starryskystar/leetCode-day-pratice)
