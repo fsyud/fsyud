@@ -1,5 +1,9 @@
 ### Hi there 👋
 **The warmest thing in the world is to do what you like all the time,⛱  nice to meet you🌈**
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sorrycc/count.svg" />
+</p>
 
 
 <!-- github statistics -->
