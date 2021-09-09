@@ -2,12 +2,12 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/starryskystar/count.svg" />
-  <img align="right" alt="GIF" src="./assets/code.gif?raw=true" width="380" height="300" />
+  <img align="right" alt="GIF" src="./assets/code.gif?raw=true" width="300" />
 </p>
 
 **The warmest thing in the world is to do what you like all the time🌈**
 <!-- github statistics -->
-<img src="https://github-readme-stats.vercel.app/api?username=starryskystar&show_icons=true&&theme=slateorange" alt="logo" width="390" align="left" style="margin: 5px; margin-top: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=starryskystar&show_icons=true&&theme=tokyonight" alt="logo" width="390" align="left" style="margin: 5px; margin-top: 20px;" />
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=starryskystar.starryskystar) -->
 
