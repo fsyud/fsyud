@@ -5,9 +5,9 @@
   <img align="right" alt="GIF" src="./assets/code.gif?raw=true" width="380" height="300" />
 </p>
 
-**The warmest thing in the world is to do what you like all the time,⛱  nice to meet you🌈**
+**The warmest thing in the world is to do what you like all the time🌈**
 <!-- github statistics -->
-<img src="https://github-readme-stats.vercel.app/api?username=starryskystar&show_icons=true&&theme=radical" alt="logo" width="390" align="left" style="margin: 5px; margin-top: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=starryskystar&show_icons=true&&theme=slateorange" alt="logo" width="390" align="left" style="margin: 5px; margin-top: 20px;" />
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=starryskystar.starryskystar) -->
 
