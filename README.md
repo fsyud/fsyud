@@ -1,6 +1,5 @@
 ### Hi there 👋
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/starryskystar/count.svg" />
   <img align="right" alt="GIF" src="./assets/code.gif?raw=true" width="322" />
 </p>
