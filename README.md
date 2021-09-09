@@ -2,6 +2,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/starryskystar/count.svg" />
+  <img align="right" alt="GIF" src="./assets/code.gif?raw=true" width="380" height="300" />
 </p>
 
 **The warmest thing in the world is to do what you like all the time,⛱  nice to meet you🌈**
