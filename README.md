@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"> 
+<p align="left"> 
   <img src="https://profile-counter.glitch.me/starryskystar/count.svg" />
 </p>
 
