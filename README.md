@@ -1,4 +1,4 @@
-[### Hi there 👋
+## Hi there 👋
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/starryskystar/count.svg" />
 </p>
@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-](url)
