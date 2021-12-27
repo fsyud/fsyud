@@ -1,4 +1,4 @@
-### Hi there 👋
+[### Hi there 👋
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/starryskystar/count.svg" />
 </p>
@@ -6,9 +6,10 @@
 **The warmest thing in the world is to do what you like all the time🌈**
 <!-- github statistics -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=starryskystar" alt="logo" align="left" style="margin-top: 20px; width: 50%;" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starryskystar&layout=compact" alt="logo" align="right">
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=starryskystar" alt="logo" align="left" style="margin-top: 20px; width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starryskystar&layout=compact" alt="logo" align="right">
+</div>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=starryskystar.starryskystar) -->
 
@@ -28,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](url)
