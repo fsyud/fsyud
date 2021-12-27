@@ -8,7 +8,6 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=starryskystar" alt="logo" align="left" style="margin-top: 20px; width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starryskystar&layout=compact" alt="logo" align="right">
 </div>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=starryskystar.starryskystar) -->
