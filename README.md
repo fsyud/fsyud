@@ -3,7 +3,6 @@
   <img src="https://profile-counter.glitch.me/starryskystar/count.svg" />
 </p>
 
-**The warmest thing in the world is to do what you like all the time🌈**
 <!-- github statistics -->
 
 <div style="display: flex;">
