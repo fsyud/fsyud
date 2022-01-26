@@ -8,7 +8,9 @@
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=starryskystar" alt="logo" align="left" style="margin-top: 20px; width: 50%;" />
 </div>
-
+<a href="https://github.com/starryskystar">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starryskystar&theme=light&hide_langs_below=1" alt="Top Language"/>
+</a>
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=starryskystar.starryskystar) -->
 
 <!--
