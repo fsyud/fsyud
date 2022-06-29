@@ -5,6 +5,8 @@
 
 <!-- github statistics -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starryskystar&theme=nord_bright)
+
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=starryskystar" alt="logo" align="left" style="margin-top: 20px; width: 50%;" />
 </div>
