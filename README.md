@@ -1,7 +1,4 @@
 ## Hi 👋
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/starryskystar/count.svg" />
-</p>
 
 <p align=center>  
   <!-- <img align='left' height="50"  src="https://s2.loli.net/2021/12/08/7fag4CkiItY9lzy.png"/>  -->
@@ -9,7 +6,6 @@
 </p> 
 
 <!-- github statistics -->
-
 
 ![](https://github-readme-stats.vercel.app/api?username=ligdy7)
 
