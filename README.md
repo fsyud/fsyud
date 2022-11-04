@@ -6,4 +6,4 @@
 
 <!-- github statistics -->
 
-<div align="left"><img height="80" src="https://github-readme-stats.vercel.app/api?username=ligdy7&show_icons=true" /></div>
+<div align="left"><img height="120" src="https://github-readme-stats.vercel.app/api?username=ligdy7&show_icons=true" /></div>
