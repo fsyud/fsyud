@@ -1,8 +1,8 @@
 Hi 👋
 
-<p align="left">  
+<!-- <p align="left">  
   <img src="https://count.getloli.com/get/@ligdy7?theme=rule34">
-</p> 
+</p>  -->
 
 <!-- github statistics
 
