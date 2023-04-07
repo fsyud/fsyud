@@ -4,7 +4,7 @@
   <img src="https://count.getloli.com/get/@ligdy7?theme=rule34">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/ligdy7/ligdy7@main/assets/github-contribution-grid-snake.svg" />
 </p>
 
