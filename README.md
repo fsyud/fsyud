@@ -13,10 +13,14 @@
 <!-- 
 https://raw.githubusercontent.com/ligdy7/ligdy7/main/assets/github-contribution-grid-snake.svg -->
 
+<div>
+  <div align="left"><img height="185" src="https://github-readme-stats.vercel.app/api?username=ligdy7&show_icons=true" /></div>
+  <div align="right"><img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligdy7&layout=compact" /></div>
+</div>
 
-<div align="left"><img height="185" src="https://github-readme-stats.vercel.app/api?username=ligdy7&show_icons=true" /></div>
 
 
-<div align="right"><img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligdy7&layout=compact" /></div>
+
+
 
 
