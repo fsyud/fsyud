@@ -16,7 +16,7 @@
 
 
 <p align="left">
-  <img height="400" src="https://cdn.jsdelivr.net/gh/ligdy7/ligdy7@main/assets/code.gif" />
+  <img height="300" src="https://cdn.jsdelivr.net/gh/ligdy7/ligdy7@main/assets/code.gif" />
 </p>
 
 <p align="left">
