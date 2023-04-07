@@ -23,6 +23,10 @@
 <!-- 
 https://raw.githubusercontent.com/ligdy7/ligdy7/main/assets/github-contribution-grid-snake.svg -->
 
+<p>
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=ligdy7&show_icons=true" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligdy7&layout=compact" />
+</p>
+
+
 
