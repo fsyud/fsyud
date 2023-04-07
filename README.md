@@ -5,7 +5,7 @@ Hi 👋
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ligdy7/ligdy7/output/github-contribution-grid-snake.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/ligdy7/ligdy7@main/assets/github-contribution-grid-snake.svg" />
 </p>
 
 
