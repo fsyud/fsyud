@@ -1,4 +1,4 @@
-<style>
+<style type="text/css" rel="stylesheet">
 #card {
   display: flex;
 }
