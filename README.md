@@ -5,12 +5,12 @@
 </p>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/ligdy7/ligdy7@main/assets/github-contribution-grid-snake.svg" />
+  <img height="185" src="https://cdn.jsdelivr.net/gh/ligdy7/ligdy7@main/assets/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- 
 https://raw.githubusercontent.com/ligdy7/ligdy7/main/assets/github-contribution-grid-snake.svg -->
 
 
-<div align="left"><img height="175" src="https://github-readme-stats.vercel.app/api?username=ligdy7&show_icons=true" /></div>
+<div align="left"><img height="185" src="https://github-readme-stats.vercel.app/api?username=ligdy7&show_icons=true" /></div>
 
