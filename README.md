@@ -8,7 +8,7 @@
 }
 </style> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Hello+World+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+ligdy)](https://git.io/typing-svg)
 
 <!-- <p align="left">  
   <img src="https://count.getloli.com/get/@ligdy7?theme=rule34">
