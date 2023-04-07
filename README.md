@@ -1,3 +1,13 @@
+<style>
+#card {
+  display: flex;
+}
+  
+#toplang {
+  margin-left: 30px;  
+}
+</style>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Hello+World+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p align="left">  
@@ -13,9 +23,9 @@
 <!-- 
 https://raw.githubusercontent.com/ligdy7/ligdy7/main/assets/github-contribution-grid-snake.svg -->
 
-<div style="display: 'flex'">
+<div id="card">
   <div align="left"><img height="185" src="https://github-readme-stats.vercel.app/api?username=ligdy7&show_icons=true" /></div>
-  <div align="right"><img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligdy7&layout=compact" /></div>
+  <div id="toplang" align="right"><img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligdy7&layout=compact" /></div>
 </div>
 
 
