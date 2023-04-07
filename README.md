@@ -12,5 +12,5 @@
 https://raw.githubusercontent.com/ligdy7/ligdy7/main/assets/github-contribution-grid-snake.svg -->
 
 
-<div align="left"><img height="200" src="https://github-readme-stats.vercel.app/api?username=ligdy7&show_icons=true" /></div>
+<div align="left"><img height="150" src="https://github-readme-stats.vercel.app/api?username=ligdy7&show_icons=true" /></div>
 
