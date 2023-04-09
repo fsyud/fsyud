@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <img height="185" src="https://cdn.jsdelivr.net/gh/ligdy7/ligdy7@main/assets/github-contribution-grid-snake.svg" />
+  <img height="185" src="./assets/github-contribution-grid-snake.svg" />
 </p>
 
 
