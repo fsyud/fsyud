@@ -15,9 +15,9 @@
 </p> -->
 
 
-<p align="left">
+<!-- <p align="left">
   <img height="300" src="./assets/code.gif" />
-</p>
+</p> -->
 
 <p align="left">
   <img height="185" src="./assets/github-contribution-grid-snake.svg" />
