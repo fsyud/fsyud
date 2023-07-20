@@ -19,11 +19,6 @@
   <img height="300" src="./assets/code.gif" />
 </p> -->
 
-<p align="left">
-  <img height="185" src="./assets/github-contribution-grid-snake.svg" />
-</p>
-
-
 
 <!-- 
 https://raw.githubusercontent.com/ligdy7/ligdy7/main/assets/github-contribution-grid-snake.svg -->
