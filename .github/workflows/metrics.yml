@@ -42,4 +42,4 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 6
           plugin_languages_analysis_timeout: 15
-          commits_authoring: ligdy7, fsyud7@163,com
+          commits_authoring: ligdy7, fsyud7@163.com
