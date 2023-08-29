@@ -8,6 +8,6 @@
 </p>
 
 <p align="center">
-   <img width="495" src="https://github-readme-activity-graph.vercel.app/graph?username=ligdy7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+   <img width="495" src="https://github-readme-activity-graph.vercel.app/graph?username=ligdy7&theme=react-dark" />
 </p>
 
