@@ -6,7 +6,7 @@
 
 ## 联系方式
 
-- 博客: [www.fsyud.com/](http://fsyud.com/)
+- 博客: [www.fsyud.com](http://fsyud.com/)
 - Email：fsyud7@163.com
 
 
