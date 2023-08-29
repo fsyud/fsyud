@@ -7,7 +7,3 @@
    <img src="https://streak-stats.demolab.com?user=ligdy7&theme=ayu-mirage&border_radius=0.4)](https://git.io/streak-stats" />
 </p>
 
-<p align="center">
-   <img width="495" src="https://github-readme-activity-graph.vercel.app/graph?username=ligdy7&theme=react-dark" />
-</p>
-
