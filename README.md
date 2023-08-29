@@ -7,8 +7,7 @@
    <img src="https://streak-stats.demolab.com?user=ligdy7&theme=ayu-mirage&border_radius=0.4)](https://git.io/streak-stats" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ligdy7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
+<p align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ligdy7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+</p>
 
